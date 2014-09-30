@@ -1,7 +1,9 @@
 # BeanstalkAPP -> SlackHQ Integration
-###### Post your deploy commits to directly to a chosen/dynamic slack channel
+##### Post your deploy commits to directly to a chosen/dynamic slack channel
 
-A single PHP file that (when  configured) will update SlackHQ with your beanstalkApp deployments.
+### What is it?
+
+post-hook.php is a single PHP file that (when configured) will update SlackHQ with your beanstalkApp deployments.
 
 ### Instructions
 
