@@ -1,4 +1,5 @@
-beanstalk-slack
+# BeanstalkAPP -> SlackHQ Integration
+###### Post your deploy commits to directly to a chosen/dynamic slack channel
 ===============
 
 PHP file that updates SlackHQ with your beanstalkApp deployments
