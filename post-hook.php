@@ -4,7 +4,7 @@
 /*
 |--------------------------------------------------------------------------
 | Your beanstalk url. You must also add the url for this PHP file to the Post-deployment URL section in Beanstalk - http://support.beanstalkapp.com/customer/portal/articles/75806-how-do-i-trigger-hooks-before-and-after-a-deployment-
-| eg; https://example.beanstalk.com
+| eg; https://example.beanstalkapp.com
 |--------------------------------------------------------------------------
  */
 $beanstalk_url = 'https://example.beanstalkapp.com' ;
