@@ -3,7 +3,7 @@
 ################# CONFIGURATION START ###############
 /*
 |--------------------------------------------------------------------------
-| Your beanstalk url. You must also add the url for this PHP file to the Post-deployment URL section in Beanstalk - http://support.beanstalkapp.com/customer/portal/articles/75806-how-do-i-trigger-hooks-before-and-after-a-deployment-
+| Your beanstalk url. You must also add the url for this PHP file to the Post-deployment URL section in Beanstalk (eg; http://youdomain.com/beanstalk-slack.php) - http://support.beanstalkapp.com/customer/portal/articles/75806-how-do-i-trigger-hooks-before-and-after-a-deployment-
 | eg; https://example.beanstalkapp.com
 |--------------------------------------------------------------------------
  */
